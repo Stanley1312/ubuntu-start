@@ -35,7 +35,8 @@ sudo apt install fonts-firacode
   Fira Code
   ```
 
-
+# REF 
+(Customize terminal mặc định "nhàm chán" của Ubuntu, VSCode, RubyMine với Zsh)[https://viblo.asia/p/customize-terminal-mac-dinh-nham-chan-cua-ubuntu-vscode-rubymine-voi-zsh-XL6lAyo4lek]
 
 
 
