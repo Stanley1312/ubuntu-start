@@ -63,5 +63,5 @@ make clean && make
 Test passed!
 ```
 # REF 
-* [linl](https://sh-tsang.medium.com/tutorial-cuda-v10-2-cudnn-v7-6-5-installation-ubuntu-18-04-3d24c157473f)
+* [Tutorial: CUDA v10.2 + CUDNN v7.6.5 Installation @ Ubuntu 18.04](https://sh-tsang.medium.com/tutorial-cuda-v10-2-cudnn-v7-6-5-installation-ubuntu-18-04-3d24c157473f)
 
