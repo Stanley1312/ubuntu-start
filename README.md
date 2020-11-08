@@ -10,4 +10,3 @@
 
 ## List of apps 
 - [Noteable](https://notable.app/)
-- 
