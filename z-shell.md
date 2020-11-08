@@ -19,3 +19,14 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 ```
 export PATH=$HOME/bin:/usr/local/bin:$PATH in  ~./zshrc 
 ```
+## Install powerline fonts
+```
+sudo apt-get install fonts-powerline
+```
+## Optional themes
+Set ``` ZSH_THEME = "agnoster" ``` to set the new theme for the terminal.
+
+
+
+
+
