@@ -25,6 +25,17 @@ sudo apt-get install fonts-powerline
 ```
 ## Optional themes
 Set ``` ZSH_THEME = "agnoster" ``` to set the new theme for the terminal.
+# Change the default font for terminal and VS code 
+* Install fira-code font
+```
+sudo apt install fonts-firacode
+```
+* Set fira-code for VS code 
+  * Set **"terminal.integrated.fontFamily"** in Setting option of VS code to
+  ```
+  Fira Code
+  ```
+
 
 
 
