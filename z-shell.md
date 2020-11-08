@@ -1,4 +1,4 @@
-# Install Blue UI and Custom Terminal
+# Install Zsh-shell
 
 ## Install zsh
 * Install zsh
@@ -34,6 +34,20 @@ sudo apt install fonts-firacode
   ```
   Fira Code
   ```
+# Install and setting for Blue UI:
+* Follow this video
+```
+https://www.youtube.com/watch?v=Sn5pe_gMsgc
+```
+* Icon themes: Cabinet
+
+
+
+
+
+
+
+
 
 # REF 
 * [Customize terminal mặc định "nhàm chán" của Ubuntu, VSCode, RubyMine với Zsh](https://viblo.asia/p/customize-terminal-mac-dinh-nham-chan-cua-ubuntu-vscode-rubymine-voi-zsh-XL6lAyo4lek)
