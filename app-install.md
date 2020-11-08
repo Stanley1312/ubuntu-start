@@ -1,4 +1,4 @@
-#Install VS Code 
+# Install VS Code 
 * First, update the packages index and install the dependencies by typing
 ```
 $ sudo apt install software-properties-common apt-transport-https wget
@@ -16,3 +16,5 @@ $ sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos
 $ sudo apt update
 $ sudo apt install code 
 ```
+# REF 
+[How to Install Visual Studio Code on Ubuntu 18.04](https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-18-04/)
