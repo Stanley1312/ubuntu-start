@@ -1,5 +1,5 @@
 # 1.CUDA Installtion 
-* Go to https: [link](https://developer.nvidia.com/cuda-downloads"https://developer.nvidia.com/cuda-downloads")
+* Go to https: [link](https://developer.nvidia.com/cuda-downloads"https://developer.nvidia.com/cuda-downloads"https://developer.nvidia.com/cuda-downloads"https://developer.nvidia.com/cuda-downloads")
 * Select the target platform based on your OS setting.
 * I chose to use runfile (local) for installation. There will be installation instructions to follow. My instruction at this moment is:
 ```
@@ -25,7 +25,7 @@ export LD_LIBRARY_PATH=/usr/local/cuda/lib64:$LD_LIBRARY_PATH
 source /.bashrc
 ```
 
-# 2.CUDNN * Change #include “driver_types.h” to #include <driver_types.h>.
+# 2.CUDNN Installation.
 * Go to login and download cuDNN v7.6.5 for CUDA v10.2. There are 3 deb files. That’s it.
 ```
 sudo dpkg -i libcudnn7_7.6.5.32-1+cuda10.2_amd64.deb
@@ -62,5 +62,6 @@ make clean && make
 ```
 Test passed!
 ```
-
+# REF 
+* [linl](https://sh-tsang.medium.com/tutorial-cuda-v10-2-cudnn-v7-6-5-installation-ubuntu-18-04-3d24c157473f)
 
