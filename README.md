@@ -12,3 +12,4 @@
 ## List of apps 
 - [Noteable](https://notable.app/)
 - [Ibus-unikey](https://vinasupport.com/huong-dan-cai-bo-go-tieng-viet-ibus-unikey-tren-ubuntu/)
+- [Shutter](https://itsfoss.com/install-shutter-ubuntu/)
