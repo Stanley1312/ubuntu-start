@@ -5,6 +5,7 @@
 - [How to set up Z-shell and GNOME installation for blue UI](z-shell.md)
 - [How to install Anaconda](env-setup.md)
 - [How to install VS code](app-install.md)
+- [How to install Docker](docker-package.md)
 
 
 
