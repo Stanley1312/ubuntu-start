@@ -1,4 +1,4 @@
-# UBUNTU SET-UP
+# UBUNTU SET-UPS
 
 ## List of installations
 - [How to set up CUDA and CUDNN tools](nvidia-tools.md)
