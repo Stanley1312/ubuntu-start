@@ -30,8 +30,7 @@ Set ``` ZSH_THEME = "agnoster" ``` to set the new theme for the terminal.
 ```
 sudo apt install fonts-firacode
 ```
-* Set fira-code for VS code 
-  * Set **"terminal.integrated.fontFamily"** in Setting option of VS code to
+* Set fira-code for VS code by changing **"terminal.integrated.fontFamily"** in Setting option of VS code to
   ```
   Fira Code
   ```
