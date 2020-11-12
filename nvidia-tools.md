@@ -55,6 +55,7 @@ sudo gedit  /usr/include/cudnn.h./mnistCUDNN
 make clean && make 
 ```
 * If successful to install:
+* If this step has any error, **Restart !!**
 ```
 ./mnistCUDNN
 ```
