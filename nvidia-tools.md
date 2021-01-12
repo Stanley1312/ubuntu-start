@@ -69,7 +69,7 @@ Test passed!
 ```
 tar -xzvf {CUDNN_TAR_FILE_NAME}
 ```
-# Copy the following files into the cuda toolkit directory.
+### Copy the following files into the cuda toolkit directory.
 ```
 sudo cp -P cuda/include/cudnn.h /usr/local/cuda-9.0/include
 sudo cp -P cuda/lib64/libcudnn* /usr/local/cuda-9.0/lib64/
