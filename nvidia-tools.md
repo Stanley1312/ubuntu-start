@@ -63,6 +63,19 @@ make clean && make
 ```
 Test passed!
 ```
+### If you have another version of cuda in your computer, try install cuda in the same way above but install cudnn follow this way
+
+* Dowload CuDNN tar file in NVIDIA website https://developer.nvidia.com/cudnn and unzip this file 
+```
+tar -xzvf {CUDNN_TAR_FILE_NAME}
+```
+# Copy the following files into the cuda toolkit directory.
+```
+sudo cp -P cuda/include/cudnn.h /usr/local/cuda-9.0/include
+sudo cp -P cuda/lib64/libcudnn* /usr/local/cuda-9.0/lib64/
+sudo chmod a+r /usr/local/cuda-9.0/lib64/libcudnn*
+```
+
 # REF 
 * [Tutorial: CUDA v10.2 + CUDNN v7.6.5 Installation @ Ubuntu 18.04](https://sh-tsang.medium.com/tutorial-cuda-v10-2-cudnn-v7-6-5-installation-ubuntu-18-04-3d24c157473f)
-
+* [Cuda 9.0 complete installation procedure for ubuntu 18.04 LTS ](https://gist.github.com/andyweizhao/639e94b60c166f57964aafedeb465e90)
