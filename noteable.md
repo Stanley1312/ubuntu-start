@@ -60,5 +60,10 @@ jupyter notebook --ip 192.168.1.232 --NotebookApp.token='' --NotebookApp.passwor
 #for remove a env
 conda remove --name <envname> --all
 
+### add env to jupyter notebook 
+```
+ipython kernel install --user --name=slenium
+```
+
 
 
