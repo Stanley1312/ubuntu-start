@@ -21,5 +21,14 @@ Exit out the PostgreSQL prompt by typing
 postgres=# \q
 ```
 
+## Accessing a Postgres Prompt Without Switching Accounts
+You can also run the command you’d like with the postgres account directly with **sudo**
+
+```
+sudo -u postgres psql
+```
+
+
+
 # REF
 * [How To Install and Use PostgreSQL on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04)
