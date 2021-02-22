@@ -10,7 +10,7 @@ sudo apt install postgresql postgresql-contrib
 
 Switch over to the **postgres** account on your server by typing:
 ```
-sudo -u -u postgres
+sudo -i -u postgres
 ```
 You can now acess a Postgres prompt immediately by typing
 ```
