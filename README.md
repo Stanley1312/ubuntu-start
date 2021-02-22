@@ -6,6 +6,7 @@
 - [How to install Anaconda](env-setup.md)
 - [How to install VS code](app-install.md)
 - [How to install Docker](docker-package.md)
+- [How to install PostgreSQL](psql.md)
 
 
 
