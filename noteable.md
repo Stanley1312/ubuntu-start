@@ -62,7 +62,7 @@ conda remove --name <envname> --all
 ```
 ### add env to jupyter notebook 
 ```
-ipython kernel install --user --name=slenium
+python -m ipykernel install --user --name=my-virtualenv-name
 ```
 
 
