@@ -1,4 +1,4 @@
-# Insatll PostgreSQl on Ubuntu
+# Install PostgreSQl on Ubuntu
 
 ### Step 1 - Installing PostgreSQL
 ```
