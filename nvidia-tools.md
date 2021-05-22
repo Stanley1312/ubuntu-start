@@ -5,7 +5,7 @@
 ```
 wget http://developer.download.nvidia.com/compute/cuda/10.2/Prod/local_installers/cuda_10.2.89_440.33.01_linux.run
 ```
-* After downloading, run the second script. (If you have installed an updated GPU driver, you can uncheck to not install the driver during the installation.)
+* After downloading, **reboot the compter** and then run the second script. (If you have installed an updated GPU driver, you can uncheck to not install the driver during the installation.)
 ```
 sudo sh cuda_10.2.89_440.33.01_linux.run
 ```
