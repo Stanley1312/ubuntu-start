@@ -1,6 +1,7 @@
 # UBUNTU SET-UPS
 
 ## List of installations
+- [How to install git](dependencies.md)
 - [How to set up CUDA and CUDNN tools](nvidia-tools.md)
 - [How to set up Z-shell and GNOME installation for blue UI](z-shell.md)
 - [How to install Anaconda](env-setup.md)
