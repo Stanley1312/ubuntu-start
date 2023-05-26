@@ -8,7 +8,6 @@
 - [How to install Docker](docker-package.md)
 - [How to install PostgreSQL](psql.md)
 - [How to install install OpenCV from source](installopencv.md)
-- 
 
 
 
